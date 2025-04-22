@@ -4,3 +4,9 @@
 ! author: mauxie14
 
 $downrank=1,site=allrecipes.com
+
+boost=2,site=cooking.nytimes.com
+boost=2,site=recipetineats.com
+boost=2,site=americastestkitchen.com
+boost=2,site=kingarthurbaking.com
+boost=2,site=177milkstreet.com

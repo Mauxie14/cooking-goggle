@@ -11,3 +11,4 @@ $boost=2,site=americastestkitchen.com
 $boost=2,site=kingarthurbaking.com
 $boost=2,site=177milkstreet.com
 $boost=2,site=smittenkitchen.com
+$boost=2,site=pinchofyum.com

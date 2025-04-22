@@ -1,6 +1,6 @@
 ! name: cooking
 ! description: best recipe websites
-! public: false
+! public: true
 ! author: mauxie14
 
 $downrank=2,site=allrecipes.com

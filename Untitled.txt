@@ -3,7 +3,7 @@
 ! public: true
 ! author: mauxie14
 
-$downrank=2,site=allrecipes.com
+$downrank,site=allrecipes.com
 
 $boost=3,site=cooking.nytimes.com
 $boost=3,site=recipetineats.com
